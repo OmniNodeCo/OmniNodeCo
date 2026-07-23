@@ -55,6 +55,12 @@ A Code editor made in python
 
 A OS made with base code of nanobyte os 
 
+###  OmniNodeCo Games
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/games)
+
+Free games online
+
 
 
 <picture>
