@@ -65,6 +65,12 @@ A OS made with base code of nanobyte os
 
 ---
 
+## 🤝 Contributing
+
+Contributions, bug reports, feature requests, and ideas are always welcome.
+
+If you'd like to help improve one of my projects, feel free to open an issue or submit a pull request.
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=OmniNodeCo&show_icons=true&theme=github_dark&hide_border=true)
