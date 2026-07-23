@@ -9,6 +9,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/OmniNodeCo?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/OmniNodeCo?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=OmniNodeCo&style=for-the-badge&color=blue)](https://github.com/OmniNodeCo)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=OmniNodeCo&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 Welcome to my GitHub! I enjoy building free, open-source software that helps developers, creators, and the community.
 
