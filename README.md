@@ -1,5 +1,3 @@
-# 👋 Hi, I'm OmniNode
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+OmniNode!;Open+Source+Developer;Building+Free+Software;Free+for+EVERYONE)](https://git.io/typing-svg)
@@ -9,7 +7,9 @@
 [![GitHub Followers](https://img.shields.io/github/followers/OmniNodeCo?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/OmniNodeCo?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=OmniNodeCo&style=for-the-badge&color=blue)](https://github.com/OmniNodeCo)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=OmniNodeCo&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmniNodeCo&theme=github-dark)
 
 ---
