@@ -1,6 +1,10 @@
 # 👋 Hi, I'm OmniNode
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+OmniNode!;Open-Source+Developer;Building+Free+Software;Minecraft+Projects)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+OmniNode!;Open+Source+Developer;Building+Free+Software;Free+for+EVERYONE)](https://git.io/typing-svg)
+
+</div>
 
 [![GitHub Followers](https://img.shields.io/github/followers/OmniNodeCo?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/OmniNodeCo?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
