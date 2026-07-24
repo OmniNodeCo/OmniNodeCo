@@ -55,6 +55,13 @@ A Code editor made in python
 
 A OS made with base code of nanobyte os 
 
+###  Windows-Batch-Scripts
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/Windows-Batch-Scripts)
+
+An repo for useful batch scripts
+
+
 
 
 
