@@ -62,6 +62,13 @@ A OS made with base code of nanobyte os
 An repo for useful batch scripts
 
 
+###  Voxelcraft
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/voxelcraft)
+
+A video game like minecraft
+
+
 
 
 
