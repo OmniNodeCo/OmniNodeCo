@@ -8,6 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/OmniNodeCo?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aWAshd2ZY4)
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=OmniNodeCo&style=for-the-badge&color=blue)](https://github.com/OmniNodeCo) -->
+Contact me at Omninodeco@gmail.com
 
 
 
