@@ -6,6 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/OmniNodeCo?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/OmniNodeCo?affiliations=OWNER&style=for-the-badge&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOmniNodeCo&logo=github)](https://github.com/OmniNodeCo?tab=repositories)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aWAshd2ZY4)
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=OmniNodeCo&style=for-the-badge&color=blue)](https://github.com/OmniNodeCo) -->
 Contact me at Omninodeco@gmail.com
@@ -31,49 +32,6 @@ Welcome to my GitHub! I enjoy building free, open-source software that helps dev
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🌟 Featured Projects
-
-###  MC-Source
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/MC-Source)
-
-Full source code of all Minecraft versions.
-
-###  OmniLauncher-MC
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/OmniLauncher-MC)
-
-A Minecraft launcher made in Python.
-
-###  OmniIDE
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/OmniIDE)
-
-A Code editor made in python
-
-###  OmniOS
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/OmniOS)
-
-A OS made with base code of nanobyte os 
-
-###  Windows-Batch-Scripts
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/Windows-Batch-Scripts)
-
-An repo for useful batch scripts
-
-
-###  Voxelcraft
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/OmniNodeCo/voxelcraft)
-
-A video game like minecraft
-
-
-
-
 
 <picture>
   <source
